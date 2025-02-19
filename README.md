@@ -11,4 +11,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [3709-find-special-substring-of-length-k](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3709-find-special-substring-of-length-k) |
 <!---LeetCode Topics End-->
