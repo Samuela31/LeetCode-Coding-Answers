@@ -4,6 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
+        #Number Manipulation method
         if x>-1 and x<10:
             return True
 
@@ -22,4 +23,13 @@ class Solution(object):
         if res==x:
             return True
         return False
+        
+        '''
+        #Using Strings
+        s = str(x)
+        if s == s[::-1]:
+            return True
+        else:
+            return False
+        '''
         
