@@ -4,11 +4,11 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x<0:
-            return False
-
         if x>-1 and x<10:
             return True
+
+        if x<0 or x%10==0: #if x is -ve or last digit is 0, then it can't be palindrome. Put this condition after ensuring x is not 0 here
+            return False
         
         num=x
         rem=0
