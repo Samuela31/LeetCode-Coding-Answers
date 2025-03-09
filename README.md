@@ -14,10 +14,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0125-valid-palindrome) |
 | [3709-find-special-substring-of-length-k](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3709-find-special-substring-of-length-k) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
