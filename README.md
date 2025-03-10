@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1894-merge-strings-alternately) |
 | [3709-find-special-substring-of-length-k](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3709-find-special-substring-of-length-k) |
 ## Math
 |  |
@@ -25,4 +26,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0125-valid-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
