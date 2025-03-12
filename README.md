@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0001-two-sum) |
+| [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0125-valid-palindrome](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0125-valid-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1894-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
