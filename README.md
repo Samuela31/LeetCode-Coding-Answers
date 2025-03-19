@@ -8,10 +8,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0001-two-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0001-two-sum) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
