@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0001-two-sum) |
+| [3750-closest-equal-element-queries](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0001-two-sum) |
+| [3750-closest-equal-element-queries](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3750-closest-equal-element-queries) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [3750-closest-equal-element-queries](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3750-closest-equal-element-queries) |
 | [3790-fruits-into-baskets-ii](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
