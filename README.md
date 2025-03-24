@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0009-palindrome-number) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3817-maximum-containers-on-a-ship) |
 ## Two Pointers
 |  |
 | ------- |
