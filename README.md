@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1013-fibonacci-number) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3817-maximum-containers-on-a-ship) |
 ## Two Pointers
 |  |
@@ -49,9 +50,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1013-fibonacci-number) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/3799-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Samuela31/LeetCode-Coding-Answers/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
